@@ -1,2 +1,3 @@
 tect file
 file2
+file3
